@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Clock Digital Website",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/clock.png",
+        "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
+        "links": {
+            "code": "https://github.com/ridwanhafidz12/Digital-clock-design"
+        }
+    },
+    {
+        "title": "Shop Shoes Website",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/project/proyek web dasar.png",
+        "desc":"This is my for dicoding submission.",
+        "links": {
+            "code": "https://github.com/ridwanhafidz12/Sport-Shoes"
+        }
+    },{
+        "title": "Delicous Food Web App",
+        "tech": "HTML, CSS & JS",
+        "image": "./assets/img/d.food.png",
+        "desc":"This is my project for dicoding submission.",
+        "links": {
+            "code": "https://github.com/ridwanhafidz12/Delicious-foods"
+        }
+    },{
+        "title": "Shop Headphone Website",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/proyek freelance.png",
+        "desc": "This is my project for company profile(Thalia Education)",
+        "links": {
+            "code": "https://github.com/ridwanhafidz12/headphone-wireless"
+        }
+    },{
+        "title": "Analog Clock Website",
+        "tech": "HTML, CSS, JS",
+        "image": "./assets/img/clock.analog.png",
+        "desc": "This is my project for personal portfolio.",
+        "links": {
+            "code": "https://github.com/ridwanhafidz12/Analog-clock-design"
+        }
+    }
+]
